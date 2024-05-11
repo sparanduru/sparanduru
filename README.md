@@ -30,7 +30,7 @@ My Blogs
   
 <p align="left"> <a href="https://github.com/sparanduru/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparanduru" alt="sparanduru" /></a> </p>
 
-| ![Github Stats](https://github-readme-stats.vercel.app/api?username=srinivasuluparanduru&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&rank_icon=github) | <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasuluparanduru&theme=tokyonight&hide_border=false" /> |
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=sparanduru&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&rank_icon=github) | <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sparanduru&theme=tokyonight&hide_border=false" /> |
 
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparanduru&label=Profile%20views&color=0e75b6&style=flat" alt="sparanduru" /> </p>
@@ -46,7 +46,3 @@ My Blogs
 </div>
 
 
-
-<!--
-<p><a href="https://www.buymeacoffee.com/srinivasuluparanduru"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--7PRWGNcz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.buymeacoffee.com/button-api/%3Ftext%3DBuy%2520me%2520a%2520coffee%26emoji%3D%26slug%3Dpwd9000%26button_colour%3DFFDD00%26font_colour%3D000000%26font_family%3DCookie%26outline_colour%3D000000%26coffee_colour%3Dffffff" loading="lazy" width="235" height="50"></a></p>
--->
