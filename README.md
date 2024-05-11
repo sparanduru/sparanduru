@@ -4,14 +4,6 @@ sparanduru/sparanduru is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-- 👋 Hi, I’m Srini
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Kubernets Adminstration
-- 💞️ I’m looking to collaborate on T-Tech talk on Terraform,AWS and Python
-- 📫 How to reach me @gmail id mentioned below
-- 😄 Pronouns: He
-- ⚡ Fun fact: Life is journey with so many difficulties but in IT lets face every difficulties by learning new things
-
 
 
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
@@ -28,6 +20,15 @@ My Blogs
 - [AWS EC2 in Depth](https://www.linkedin.com/feed/update/urn:li:activity:6934135867192078336/)
 - [AWS RDS](https://www.linkedin.com/feed/update/urn:li:activity:6926838508607168512/)
 <br/>
+
+- 👋 Hi, I’m Srini
+- 👀 I’m interested in knowledge sharing & meetups
+- 🌱 I’m currently learning Kubernets Adminstration
+- 💞️ I’m looking to collaborate on T-Tech talk on Terraform,AWS and Python
+- 📫 How to reach me @gmail id mentioned below
+- 😄 Pronouns: He
+- ⚡ Fun fact: Life is journey with so many difficulties but in IT lets face every difficulties by learning new things
+
 
 
   
