@@ -34,7 +34,7 @@ My Blogs
   
 <p align="left"> <a href="https://github.com/sparanduru/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparanduru" alt="sparanduru" /></a> </p>
 
-| ![Github Stats](https://github-readme-stats.vercel.app/api?username=sparanduru&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&rank_icon=github) | <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sparanduru&theme=tokyonight&hide_border=false" /> |
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sparanduru&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&rank_icon=github) | <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sparanduru&theme=tokyonight&hide_border=false" /> |
 
 
 <!--Profile Count Badge-->
